@@ -17,9 +17,11 @@ FLEXAM is a web-based platform for managing exam scheduling, room allocation, pr
 - **Frontend:** HTML, CSS, JavaScript
 - **Local environment:** XAMPP
 
-## My Role: DevOps Support Intern
-- Developed and maintained features for the web-based exam scheduling system
-- Assisted in system deployment, testing, and troubleshooting activities
+## My Role: Developer
+- Designed and developed the FLEXAM system from the ground up, including exam scheduling logic, room/proctor assignment, and admin dashboard functionality
+- Built the database structure and backend logic using PHP and MySQL
+- Implemented data import tools for courses, rooms, proctors, and schedules
+- Handled testing, deployment, and troubleshooting throughout development
 
 ## Getting Started
 
