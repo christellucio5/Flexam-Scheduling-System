@@ -1,0 +1,11 @@
+# Sensitive files
+/db/Db.php
+/config/
+
+# Editor/tool folders
+.vscode/
+.claude/
+
+# OS files
+Thumbs.db
+.DS_Store
